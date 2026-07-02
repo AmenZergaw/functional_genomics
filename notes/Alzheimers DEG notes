@@ -1,0 +1,7 @@
+A sequencing machine takes shreds of RNA and reads the sequence. 
+Then it maps the sequence to a gene, meaning if the sequence matches the one in a gene, we get a count/read for that gene. 
+Reads per million (rpm): how many reads of a specific gene were found per million reads in general?
+Sometimes one patient will have more data collected (sequences read) than another, and may have more reads for a specific gene, so using rpm normalizes and accounts for that discrepancy. 
+Fold change: is a gene under expressed (0.5) or over expressed (2) in an alzheimer's patient vs a healthy patient. How many mRNA copies are being made for that gene in the amygdala?
+Fold change is calculated as disease counts/healthy counts.
+Log2 is taken for fold change because decimals are hard to graph with large numbers. 
