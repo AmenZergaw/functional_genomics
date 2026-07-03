@@ -1,4 +1,4 @@
-# RNASeq Analysis of Differentially Expressed Genes (MSBB Amygdala) 
+# Functional Genomics: RNASeq Analysis of Differentially Expressed Genes (MSBB Amygdala) 
 
 ### Project Overview 
 
